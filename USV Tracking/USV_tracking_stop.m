@@ -34,6 +34,7 @@ xlabel('$x~$[m]','interpreter','latex','fontsize',18)
 ylabel('$y~$[m]','interpreter','latex','fontsize',18)
 % axis([-7,7,-7,7])
 axis equal
+legend('Desired','Actual')
 
 %% Figure 2: Configuration trajectories
 figure(2)
@@ -44,6 +45,7 @@ box on
 plot(t,x, 'linestyle','-','linewidth',1.5)
 plot(t,x1, 'linestyle','-','linewidth',1.5)
 ylabel('$x~$[m]','interpreter','latex','fontsize',18)
+legend('Desired','Actual')
 
 subplot(3,1,2)
 hold on

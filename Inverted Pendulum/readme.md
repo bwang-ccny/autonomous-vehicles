@@ -2,6 +2,6 @@
   
 ## [Lecture 12] Control System Design: A Case Study (Inverted Pendulum)
 
-- Modeling: transfer functions, state-space equations
-- Analysis: open-loop response
-- Control: PID, root-locus method, frequency-domain design, LQR
+- Modeling: Transfer Functions, State-Space Equations
+- Analysis: Open-Loop Response
+- Control: PID, Root-Locus Method, Frequency-Domain Design, LQR
